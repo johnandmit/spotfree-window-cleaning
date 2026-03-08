@@ -77,7 +77,7 @@ img { max-width: 100%; display: block; }
 
 /* ═══════════════ PAGE HERO ═══════════════ */
 .page-hero {
-    background: var(--color-dark);
+    background: linear-gradient(135deg, rgba(15, 27, 45, 0.88) 0%, rgba(26, 143, 227, 0.55) 100%), url('images/real_house_03.jpg') center/cover;
     padding: 100px 40px 80px;
     text-align: center;
 }
